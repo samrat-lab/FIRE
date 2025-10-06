@@ -22,7 +22,7 @@ Python:
 R:
 * sva
 
-To install the packages use command ``` pip install package-name ```
+To install the packages in python use command ``` pip install package-name ```
 ### Directory structure
 * code directory (example: exp1)
 * Input/raw/exp1
