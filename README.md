@@ -26,10 +26,8 @@ Please download the gene expression dataset from the Gene Expression Omnibus (GE
 
 ## File Descriptions
   Use function [perform_rfe](perform_rfe.py) to remove less important feature iteratively.
-* Asses predictive performance of FLASH features
   
-  Compare multiple ML models to obtain the preditive performance of FLASH features using [compare_ml_models.py](compare_ml_models)
-* Repeat for other dataset
+  Compare multiple ML models to obtain the preditive performance [compare_ml_models.py](compare_ml_models)
 
-  Remove batch effects using [combat.R](batch correction)
-  * Remove batch effect
+  Remove batch effects using [combat.R](combat)
+
