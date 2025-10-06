@@ -46,7 +46,7 @@ def get_models(st=xx,cvs=xx,rnd = xx,min_feat=x):
     models['dt'] = rfe
 
     # Random Forest
-    rfe = RFECV(estimator=RandomForestClassifier(random_state=XX,n_estimators=50),step=st,min_features_to_select=min_feat,cv=cvs,n_jobs=xx)
+    rfe = RFECV(estimator=RandomForestClassifier(random_state=XX,n_estimators=xx),step=st,min_features_to_select=min_feat,cv=cvs,n_jobs=xx)
     models['rf'] = rfe
 
 
