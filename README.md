@@ -17,7 +17,8 @@ Please download the gene expression dataset from the Gene Expression Omnibus (GE
 * Numpy
 * scikit-learn
 * Matplotlib
-  To install the packages use command ``` pip install package-name ```
+
+To install the packages use command ``` pip install package-name ```
 ### Directory structure
 * code directory (example: exp1)
 * Input/raw/exp1
