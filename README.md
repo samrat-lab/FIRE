@@ -13,10 +13,14 @@ Please download the gene expression dataset from the Gene Expression Omnibus (GE
 
 ## Prerequisites
 ### Major Packages Required
+Python:
 * Pandas
 * Numpy
 * scikit-learn
 * Matplotlib
+
+R:
+* sva
 
 To install the packages use command ``` pip install package-name ```
 ### Directory structure
